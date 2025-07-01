@@ -22,7 +22,7 @@ To solve this, I refactored by parsing logic to process the buffer character by 
 ## Usage
 
 Compile the shell with:
-`gcc -o bshell main.c`
+`gcc -o bshell bshell.c`
 
 Run it:
 `./bshell`
